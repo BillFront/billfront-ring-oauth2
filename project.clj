@@ -1,4 +1,4 @@
-(defproject billfront-ring-oauth2 "0.1.1"
+(defproject billfront-ring-oauth2 "0.1.2"
   :description "OAuth 2.0 client middleware for Ring"
   :url "https://github.com/BillFront/billfront-ring-oauth2"
   :license {:name "The MIT License"
